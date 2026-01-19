@@ -5,9 +5,10 @@
 
 
 
-<p align="center"> <a> Hi! I’m Nikhil Kattaguri, an aspiring data professional. These projects reflect my commitment to learning and showcasing my ability to analyze complex datasets, create dynamic visualizations, and write optimized SQL queries to deliver insights that drive decision-making. </a>
+<p align="left"> Hi! I’m Nikhil Kattaguri, an aspiring data professional. These projects reflect my commitment to learning and showcasing my ability to analyze complex datasets, create dynamic visualizations, and write optimized SQL queries to deliver insights that drive decision-making.
+  
+I am always eager to learn and apply new technologies. Beyond technical skills, I believe in the power of storytelling through data, ensuring insights are not just discovered but communicated effectively.</p>
 
-I am always eager to learn and apply new technologies. Beyond technical skills, I believe in the power of storytelling through data, ensuring insights are not just discovered but communicated effectively.
 
 
 
