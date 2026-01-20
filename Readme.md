@@ -1,4 +1,4 @@
-o<h1 align="center">Hi👋, I'm Nikhil Kattaguri</h1>
+<h1 align="center">Hi👋, I'm Nikhil Kattaguri</h1>
 <h3 align="center">An aspiring data professional with a master’s degree in data analytics from Clark University, USA.</h3>
 
 <p align="justify"> Hi! I’m Nikhil Kattaguri, an aspiring data professional. These projects reflect my commitment to learning and showcasing my ability to analyze complex datasets, create dynamic visualizations, and write optimized SQL queries to deliver insights that drive decision-making.
